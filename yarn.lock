@@ -23,10 +23,10 @@
   resolved "https://registry.yarnpkg.com/@types/eslint-visitor-keys/-/eslint-visitor-keys-1.0.0.tgz#1ee30d79544ca84d68d4b3cdb0af4f205663dd2d"
   integrity sha512-OCutwjDZ4aFS6PB1UZ988C4YgwlBHJd6wCeQqaLdmadZ/7e+w79+hbMUFC1QXDNCmdyoRfAFdm0RypzwR+Qpag==
 
-"@types/google-apps-script@^1.0.9":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.9.tgz#d3daf31516328dde2fc23730709640d9f6b758d7"
-  integrity sha512-RpHLrwgH63LrpOV/F7OcDFniUqf0tDVL4AA9qqxLVpMcxEvuuvhpPgMW9t0EQ5pMX6X8+mxD22bCQe76y/5Bhg==
+"@types/google-apps-script@^1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@types/google-apps-script/-/google-apps-script-1.0.10.tgz#7afc1bf954c8e2dc5f5784f5e3c752c06a31ae8a"
+  integrity sha512-j1R8imUMPZP/6O/lZnLwUrpAo991q7QhoauF1qtZSg5wwFnr3s950PTLwMYMNxibLjmomhcYUbeVixn1jJHswg==
 
 "@types/json-schema@^7.0.3":
   version "7.0.4"
